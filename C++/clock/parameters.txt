@@ -1,0 +1,2 @@
+SECONDS= 15; MINUTES= 7; HOURS= 10;                           
+

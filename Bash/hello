@@ -1,0 +1,10 @@
+#!bin/bash
+
+mkdir base target dual
+
+cd base
+pwd
+
+mv ../target ../base
+mv ../dual ../base
+
